@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/peezedabdullah?label=Follow%20Me&style=social)](https://github.com/peezedabdullah)
 <br>
+<h2 align='center'><samp><strong>Hi there 👋, I am Abdullah Shah</strong></samp></h2>
