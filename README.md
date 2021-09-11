@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 **LinkedIn:** 🛠️<br>
-
-![LinkedIn](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>)  
-
-![LinkedIn](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="peezedabdullah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/peezedabdullah?trk=profile-badge">Abdullah Shah</a></div>)  
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/peezedabdullah?label=Follow%20Me&style=social)](https://github.com/peezedabdullah)
+<br>
