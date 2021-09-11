@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
+💻 **LinkedIn:** 🛠️<br>
+
+![Python](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="peezedabdullah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/peezedabdullah?trk=profile-badge">Abdullah Shah</a></div>
+              )  
