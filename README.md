@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: <br>
 
-Gmail : <a href= "mailto:pzabdullah7@gmail.com">Gmail</a><br>
+<a href="mailto: pzabdullah7@gmail.com">Send me an E-mail</a><br>
 
 <a href = "https://www.linkedin.com/in/abdullah-shah-1a4405172/" target="_blank">LinkedIn</a>
 
