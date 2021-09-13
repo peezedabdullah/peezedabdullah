@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📝 ***Feel free to contact anytime ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/peezedabdullah?label=Follow%20Me&style=social)](https://github.com/peezedabdullah)
-<br>
+
 
 <h2 align='center' style= 'font-family:sans-serif;'><samp><strong>Profile : Abdullah Shah</strong></samp></h2>
 
@@ -43,9 +42,10 @@ Here are some ideas to get you started:
 <!-- ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699) -->
 <!-- ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff) -->
 <!--![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)-->
+<br>
 
-
-📫 How to reach me: <br>
+📝 ***Feel free to contact anytime ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/peezedabdullah?label=Follow%20Me&style=social)](https://github.com/peezedabdullah)
+<br>
 
 <a href="mailto: pzabdullah7@gmail.com">Send me an E-mail</a><br>
 
@@ -59,4 +59,7 @@ Here are some ideas to get you started:
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=peezedabdullah" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
+
+
+
 
