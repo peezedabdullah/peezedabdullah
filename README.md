@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)<br><br>
 ![Power BI](https://img.shields.io/badge/-PowerBI-000000?style=flat&logo=powerbi&labelColor=ffffff)
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau&labelColor=ffffff)
-![MS Excel](https://img.shields.io/badge/-MSExcel-000000?style=flat&logo=msexcel&labelColor=ffffff) 
-![MS Word](https://img.shields.io/badge/-MSWord-000333?style=flat&logo=msword&labelColor=fffeee) 
+![MicrosoftExcel](https://img.shields.io/badge/-MicrosoftExcel-000120?style=flat&logo=microsoftexcel&labelColor=01cc10) 
+![MicrosoftWord](https://img.shields.io/badge/-MicrosoftWord-000333?style=flat&logo=microsoftword&labelColor=557eff) 
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql&labelColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)<br><br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)<br><br>
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow&logoColor=000000&labelColor=ffffff) 
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras&logoColor=000000&labelColor=ffffff) 
-![Fast.ai](https://img.shields.io/badge/-Fast.ai-000111?style=flat&logo=fast.ai&logoColor=000000&labelColor=eeffff)
+![Fastai](https://img.shields.io/badge/-Fast.ai-000111?style=flat&logo=fastai&logoColor=000000&labelColor=eeffff)
 
 
 
