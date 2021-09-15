@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 <br><br>
 
 <a href="mailto: pzabdullah7@gmail.com">Send me an E-mail</a><br>
+<!--  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pzabdullah7@gmail.com">abc</a> -->
 
 <a href = "https://www.linkedin.com/in/abdullah-shah-1a4405172/" target="_blank">LinkedIn</a>
 
