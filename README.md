@@ -84,6 +84,8 @@ Here are some ideas to get you started:
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
-
+<marquee width="60%" direction="right" height="100px">
+This is a sample scrolling text that has scrolls in the upper direction.
+</marquee>
 
 
