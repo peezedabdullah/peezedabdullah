@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <br>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/-14354C?style=for-the-badge&logo=C&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=javan&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br><br>
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
@@ -53,6 +55,9 @@ Here are some ideas to get you started:
 
 
 
+
+
+
 <br><br>
 
  **Knowledge of:**<br><br>
@@ -62,13 +67,14 @@ Here are some ideas to get you started:
 📝 ***Feel free to contact anytime ...*** 
 <br><br>
 
-<a href="mailto: pzabdullah7@gmail.com">Send me an E-mail</a> (From your default email client)<br>
+<a href="mailto: pzabdullah7@gmail.com">![Send me an Email](https://img.shields.io/badge/SendmeAnEmail-grey?style=for-the-badge&logo=email&logoColor=white)</a>***This will redirect you to your default email client***<br>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pzabdullah7@gmail.com">Compose Mail</a> (From client : Gmail)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pzabdullah7@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-cc1100?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
-<a href = "https://www.linkedin.com/in/abdullah-shah-1a4405172/" target="_blank">LinkedIn</a>
+<a href = "https://www.linkedin.com/in/abdullah-shah-1a4405172/" target="_blank">![Linkedin](https://img.shields.io/badge/Linkedin-00599C?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<a href="https://www.facebook.com/PzAbdullah/">![Facebook](https://img.shields.io/badge/-Facebook-000111?style=flat&logo=facebook&logoColor=000000&labelColor=eeffff)</a>
+<a href="https://www.facebook.com/PzAbdullah/">![Facebook](https://img.shields.io/badge/Facebook-00599C?style=for-the-badge&logo=facebook&logoColor=white)
+</a>
 <br>
 <br>
 <br>
