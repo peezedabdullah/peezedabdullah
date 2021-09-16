@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <a href = "https://www.linkedin.com/in/abdullah-shah-1a4405172/" target="_blank">LinkedIn</a>
 
-<a href="https://www.facebook.com/PzAbdullah/">Facebook</a>
+<a href="https://www.facebook.com/PzAbdullah/">![Facebook](https://img.shields.io/badge/-Facebook-000111?style=flat&logo=facebook&logoColor=000000&labelColor=eeffff)</a>
 <br>
 <br>
 <br>
