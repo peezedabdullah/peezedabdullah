@@ -62,8 +62,9 @@ Here are some ideas to get you started:
 📝 ***Feel free to contact anytime ...*** 
 <br><br>
 
-<a href="mailto: pzabdullah7@gmail.com">Send me an E-mail</a><br>
-<!--  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pzabdullah7@gmail.com">abc</a> -->
+<a href="mailto: pzabdullah7@gmail.com">Send me an E-mail</a> (From default email client)<br>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pzabdullah7@gmail.com">Compose Mail</a> (From client : Gmail)
 
 <a href = "https://www.linkedin.com/in/abdullah-shah-1a4405172/" target="_blank">LinkedIn</a>
 
