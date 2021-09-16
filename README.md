@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 📝 ***Feel free to contact anytime ...*** 
 <br><br>
 
-<a href="mailto: pzabdullah7@gmail.com">Send me an E-mail</a> (From default email client)<br>
+<a href="mailto: pzabdullah7@gmail.com">Send me an E-mail</a> (From your default email client)<br>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pzabdullah7@gmail.com">Compose Mail</a> (From client : Gmail)
 
