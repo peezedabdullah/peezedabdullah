@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=F05032&labelColor=ffffff)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=F05032&labelColor=ffffff)
-![JAVA](https://img.shields.io/badge/-java-000000?style=flat&logo=java&logoColor=5382a1&labelColor=ffffff)
+![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=5382a1&labelColor=ffffff)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=F05032&labelColor=ffffff)<br><br>
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
