@@ -82,11 +82,8 @@ Here are some ideas to get you started:
 </a>
 <br>
 <br>
-<br>a
 <br>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<p style="display: flex; justify-contect: space-between;">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="peezedabdullah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/peezedabdullah?trk=profile-badge">Abdullah Shah</a></div>
+<br>
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=peezedabdullah" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
