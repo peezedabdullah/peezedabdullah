@@ -71,12 +71,12 @@ Here are some ideas to get you started:
 <br><br><br><br>
 📝 ***Feel free to contact anytime ...*** 
 <br><br>
-
+<!--
 <a href="mailto: pzabdullah7@gmail.com">![Send me an Email](https://img.shields.io/badge/SendmeAnEmail-grey?style=for-the-badge&logo=email&logoColor=white)</a>***This will redirect you to your default email client***<br>
-
+--!>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pzabdullah7@gmail.com">![Gmail](https://img.shields.io/badge/pzabdullah7@gmail.com-cc1100?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
-<a href = "https://www.linkedin.com/in/abdullah-shah-1a4405172/" target="_blank">![Linkedin](https://img.shields.io/badge/Linkedin-00599C?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href = "https://www.linkedin.com/in/abdullah-shah-1a4405172/" target="_blank">![Linkedin](https://img.shields.io/badge/peezedabdullah-00599C?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <a href="https://www.facebook.com/PzAbdullah/">![Facebook](https://img.shields.io/badge/Facebook-00599C?style=for-the-badge&logo=facebook&logoColor=white)
 </a>
