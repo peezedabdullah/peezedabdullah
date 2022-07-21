@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align='center'>Data Analysis  | Data Visualization | Data Science | Computer Science and Engineering | Deep Learning | Web Development</p>
 
-<p align='left'> 📫 I am currently in my last semester of Computer Science and Engineering at North Campus, University of Kashmir. <br> Interests: Data Analysis and Visualization. Deep learning and its applications in computer vision.<br> Looking for a job in Data Analysis to make a professional base as a Data Analyst, utilize my Data Analysis  and Business intelligence skills for solving company data related problems and gain a hands on experience with them.</p>
+<p align='left'> 📫 A Computer Science Engineer | Aspiring Data Scientist | Working Professional. <br> Interests: Data Analysis and Visualization. Deep learning and its applications in computer vision.<br> Looking for a job in Data Science to make a professional base as a Data Scientist, utilize my Data Science  and Data Analysis skills for solving company data related problems and gain a hands on experience with them.</p>
 
 *Programmer specialized in* **Python** *using multiple* **tools and libraries.**
 <br><br><br>
