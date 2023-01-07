@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align='center'>Data Analysis  | Data Visualization | Data Science | Computer Science and Engineering | Deep Learning | Web Development</p>
 
-<p align='left'> 📫 A Computer Science Engineer | Aspiring Data Scientist | Working Professional. <br> Interests: Data Analysis and Visualization. Deep learning and its applications in computer vision.<br> Looking for a job in Data Science to make a professional base as a Data Scientist, utilize my Data Science  and Data Analysis skills for solving company data related problems and gain a hands on experience with them.</p>
+<p align='left'> 📫 A Computer Science Engineer | Data Scientist | Working Professional. <br> Interests: Data Analysis and Visualization. Deep learning and its applications in computer vision.<br> Utilizing my Data Science  and Data Analysis skills for solving company data related problems.</p>
 
 *Programmer specialized in* **Python** *using multiple* **tools and libraries.**
 <br><br><br>
