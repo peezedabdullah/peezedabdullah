@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ***Welcome***<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/peezedabdullah?label=Follow%20Me&style=social)](https://github.com/peezedabdullah)
 
-<h2 align='center' style= 'font-family:sans-serif;'><samp><strong>Profile : Abdullah Shah</strong></samp></h2>
+<h2 align='center' style= 'font-family:sans-serif;'><samp><strong>Abdullah Shah</strong></samp></h2>
 
 <h3 align='center'>Hi there 👋</h3>
 
