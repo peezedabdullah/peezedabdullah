@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 <br>
 
-![GCP](https://img.shields.io/badge/-AWS-000000?style=flat&logo=aws&logoColor=F05032&labelColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=F05032&labelColor=ffffff)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=F05032&labelColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=5382a1&labelColor=ffffff)
@@ -67,7 +66,7 @@ Here are some ideas to get you started:
 
  **Knowledge of:**<br><br>
 
-`Machine Learning` `Deep Learning` `Convolutional Neural Networks` `OOPs` `Data Structures and Algorithms` `Business Intelligence`
+`Data Engineering` `Machine Learning` `Deep Learning` `Convolutional Neural Networks` `OOPs` `Data Structures and Algorithms` `Business Intelligence`
 <br><br><br><br>
 📝 ***Feel free to contact anytime ...*** 
 <br><br>
