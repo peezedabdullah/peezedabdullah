@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 
 <p align='left'> 📫 A Computer Science Engineer | Data Engineer | Data Scientist | Working Professional. <br> Interests: Big Dta. Data Analysis and Visualization. Deep learning and its applications in computer vision.<br> Utilizing my Data Engineering, Data Science  and Data Analysis skills for solving company data related problems.</p>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="peezedabdullah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/peezedabdullah?trk=profile-badge">Abdullah Shah</a></div>
+              
+
 *Programmer specialized in* **Python** *using multiple* **tools and libraries.**
 <br><br><br>
 
