@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <h3 align='center'>Hi there 👋</h3>
 
-<p align='center'>Data Analysis  | Data Visualization | Data Science | Computer Science and Engineering | Deep Learning | Web Development</p>
+<p align='center'>Data Engineering | Data Analysis  | Data Visualization | Data Science | Computer Science and Engineering | Deep Learning | Web Development</p>
 
-<p align='left'> 📫 A Computer Science Engineer | Data Scientist | Working Professional. <br> Interests: Data Analysis and Visualization. Deep learning and its applications in computer vision.<br> Utilizing my Data Science  and Data Analysis skills for solving company data related problems.</p>
+<p align='left'> 📫 A Computer Science Engineer | Data Engineer | Data Scientist | Working Professional. <br> Interests: Big Dta. Data Analysis and Visualization. Deep learning and its applications in computer vision.<br> Utilizing my Data Engineering, Data Science  and Data Analysis skills for solving company data related problems.</p>
 
 *Programmer specialized in* **Python** *using multiple* **tools and libraries.**
 <br><br><br>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br>
 
-
+![GCP](https://img.shields.io/badge/-GCP-000000?style=flat&logo=python&logoColor=F05032&labelColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=F05032&labelColor=ffffff)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=F05032&labelColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=5382a1&labelColor=ffffff)
